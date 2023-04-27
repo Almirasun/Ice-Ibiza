@@ -1,0 +1,16 @@
+.about-content {
+    background: #000;
+    color: #fff;
+}
+.about-card {
+    display: flex;
+    justify-content: space-around;
+    padding: 50px;
+}
+.about-img1, .about-img2 {
+    height: 250px;
+    width: 400px;
+    background: #952424;
+    box-shadow: 10px 10px 0px 1px rgba(254, 254, 6, 0.2);
+    margin-right: 100px;
+}

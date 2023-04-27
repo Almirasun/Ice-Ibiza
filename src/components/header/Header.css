@@ -1,0 +1,16 @@
+.header {
+    height: 70px;
+    background: #000;
+    color: white;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100%;
+}
+
+a {
+    margin: 0 10px;
+}

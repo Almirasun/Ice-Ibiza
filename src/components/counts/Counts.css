@@ -1,0 +1,14 @@
+.count-container {
+    background-color: #000;
+}
+.content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 300px;
+}
+.count-elem {
+    font-size: 80px;
+    font-weight: 700;
+    color: yellow;
+}

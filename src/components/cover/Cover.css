@@ -1,0 +1,29 @@
+.cover {
+    background-image: url(./cover-bg.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+
+.text-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 500px;
+    height: 80%;
+    text-align: center;
+}
+
+h1 {
+    color: white;
+    font-size: 50px;
+}
+
+p {
+    color: white;
+    margin: 40px 0;
+}
+
+span {
+    color: yellow;
+}
