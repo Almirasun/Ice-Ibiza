@@ -6,6 +6,7 @@ import Cover from './components/cover/Cover';
 import Counts from './components/counts/Counts';
 import About from './components/about/About';
 import Service from './components/service/Service';
+import Carousel from './components/carousel/Carousel';
 
 
 function App() {
@@ -16,6 +17,7 @@ function App() {
       <Counts />
       <About />
       <Service />
+      <Carousel />
     </div>
   );
 }

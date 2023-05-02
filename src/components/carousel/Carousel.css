@@ -1,0 +1,10 @@
+.carousel-section {
+    height: 80vh;
+}
+
+.card {
+    width: 150px;
+    height: 150px;
+    background: #1d25b8;
+    border: 5px solid white;
+}
